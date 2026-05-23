@@ -1,4 +1,7 @@
+console.log("==============================================")
 console.log("Running Test...")
+console.log("==============================================")
+
 
 const add = require('./app')
 
